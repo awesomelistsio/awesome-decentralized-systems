@@ -43,6 +43,7 @@
 - **[WebTorrent](https://webtorrent.io/)** - A streaming torrent client for the web, allowing decentralized file sharing via the browser.
 - **[Gnutella](https://gnutella.wego.com/)** - An open-source peer-to-peer network protocol for file sharing.
 - **[ZeroNet](https://zeronet.io/)** - A decentralized web platform using P2P technology for content distribution and hosting.
+- **[Pilot Protocol](https://pilotprotocol.network)** - An open-source overlay network giving AI agents a permanent virtual address, encrypted UDP tunnels, NAT traversal, and an explicit per-peer trust model.
 
 ## Decentralized Protocols
 
