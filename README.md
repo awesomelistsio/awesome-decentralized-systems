@@ -61,6 +61,7 @@
 - **[Hadoop](https://hadoop.apache.org/)** - An open-source framework for distributed storage and processing of large data sets.
 
 ## Development Tools
+- [Solana Mint/Program Monitor (n8n)](https://github.com/DeusAcc/n8n-solana-mint-monitor) - Free n8n workflow: watches an SPL mint or Solana program ID and alerts on Telegram when a new transaction shows up, no external database, ready in 5 minutes.
 
 - **[Libp2p](https://libp2p.io/)** - A modular framework for building peer-to-peer networked applications.
 - **[OrbitDB](https://orbitdb.org/)** - A serverless, decentralized, peer-to-peer database built on IPFS.
